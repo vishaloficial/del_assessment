@@ -1,0 +1,36 @@
+[
+    {
+       "name":"Coombes",
+       "imgUrl":"img/image-1.jpg",
+       "price":2600 
+    },
+    {
+       "name":"Keeve Set",
+       "imgUrl":"img/image-2.jpg",
+       "price":590 
+    },
+    {
+       "name":"Nille",
+       "imgUrl":"img/image-3.jpg",
+       "price":950 
+    },
+    {
+       "name":"Momo",
+       "imgUrl":"img/image-4.jpg",
+       "price":890 
+    },
+    {
+       "name":"Penemille",
+       "imgUrl":"img/image-5.jpg",
+       "price":120
+    },
+    {
+       "name":"kappu",
+       "imgUrl":"img/image-6.jpg",
+       "price":420 
+    },
+    {
+       "name":"Chair",
+       "price":200 
+    }
+ ]
